@@ -7,6 +7,9 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
+          버그 수정 중1 <code>src/App.js</code> and save to reload.
+        </p>
+        <p>
           버그 수정 중2 <code>src/App.js</code> and save to reload.
         </p>
         <a
