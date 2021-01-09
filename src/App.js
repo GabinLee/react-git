@@ -12,6 +12,9 @@ function App() {
         <p>
           버그 수정 중2 <code>src/App.js</code> and save to reload.
         </p>
+        <p>
+          기능 추가 완료 <code>src/App.js</code> and save to reload.
+        </p>
         <a
           className="App-link"
           href="https://reactjs.org"
